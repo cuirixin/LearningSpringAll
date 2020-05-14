@@ -1,0 +1,174 @@
+2020-04-27 07:58:23.401 [restartedMain] INFO  com.phoenix.Application - Starting Application on victordembp with PID 28236 (/Users/victor/Documents/_work/java_learning/LearningMybatis/target/classes started by victor in /Users/victor/Documents/_work/java_learning/LearningMybatis)
+2020-04-27 07:58:23.404 [restartedMain] INFO  com.phoenix.Application - No active profile set, falling back to default profiles: default
+2020-04-27 07:58:23.478 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-27 07:58:23.479 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-27 07:58:24.733 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-27 07:58:24.744 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-27 07:58:24.744 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-27 07:58:24.745 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-27 07:58:24.820 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-27 07:58:24.821 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1342 ms
+2020-04-27 07:58:25.167 [restartedMain] WARN  net.sf.ehcache.config.ConfigurationFactory - No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/victor/.m2/repository/net/sf/ehcache/ehcache-core/2.6.6/ehcache-core-2.6.6.jar!/ehcache-failsafe.xml
+2020-04-27 07:58:25.539 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 07:58:25.707 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-27 07:58:25.730 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-27 07:58:25.766 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-27 07:58:25.769 [restartedMain] INFO  com.phoenix.Application - Started Application in 2.793 seconds (JVM running for 3.525)
+2020-04-27 07:58:38.322 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-27 07:58:38.323 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-27 07:58:38.332 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-04-27 07:58:50.962 [http-nio-8080-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-27 07:58:51.090 [http-nio-8080-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-27 08:00:33.672 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:00:33.673 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-27 08:00:33.679 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-27 08:00:36.983 [restartedMain] INFO  com.phoenix.Application - Starting Application on victordembp with PID 28248 (/Users/victor/Documents/_work/java_learning/LearningMybatis/target/classes started by victor in /Users/victor/Documents/_work/java_learning/LearningMybatis)
+2020-04-27 08:00:36.985 [restartedMain] INFO  com.phoenix.Application - No active profile set, falling back to default profiles: default
+2020-04-27 08:00:37.087 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-27 08:00:37.087 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-27 08:00:38.064 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-27 08:00:38.072 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:00:38.072 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-27 08:00:38.072 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-27 08:00:38.124 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-27 08:00:38.124 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1037 ms
+2020-04-27 08:00:38.354 [restartedMain] WARN  net.sf.ehcache.config.ConfigurationFactory - No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/victor/.m2/repository/net/sf/ehcache/ehcache-core/2.6.6/ehcache-core-2.6.6.jar!/ehcache-failsafe.xml
+2020-04-27 08:00:38.646 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:00:38.816 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-27 08:00:38.838 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:00:38.864 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-27 08:00:38.868 [restartedMain] INFO  com.phoenix.Application - Started Application in 2.208 seconds (JVM running for 2.855)
+2020-04-27 08:00:42.837 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-27 08:00:42.838 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-27 08:00:42.842 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-04-27 08:00:42.872 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-27 08:00:42.970 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-27 08:02:12.990 [Thread-12] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:02:12.991 [Thread-12] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-27 08:02:12.999 [Thread-12] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-27 08:02:13.188 [restartedMain] INFO  com.phoenix.Application - Starting Application on victordembp with PID 28248 (/Users/victor/Documents/_work/java_learning/LearningMybatis/target/classes started by victor in /Users/victor/Documents/_work/java_learning/LearningMybatis)
+2020-04-27 08:02:13.188 [restartedMain] INFO  com.phoenix.Application - No active profile set, falling back to default profiles: default
+2020-04-27 08:02:13.412 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-27 08:02:13.413 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:02:13.413 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-27 08:02:13.413 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-27 08:02:13.427 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-27 08:02:13.427 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 237 ms
+2020-04-27 08:02:13.537 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:02:13.590 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-27 08:02:13.601 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:02:13.603 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-27 08:02:13.604 [restartedMain] INFO  com.phoenix.Application - Started Application in 0.457 seconds (JVM running for 97.599)
+2020-04-27 08:02:13.605 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-04-27 08:02:13.613 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:02:18.302 [restartedMain] INFO  com.phoenix.Application - Starting Application on victordembp with PID 28261 (/Users/victor/Documents/_work/java_learning/LearningMybatis/target/classes started by victor in /Users/victor/Documents/_work/java_learning/LearningMybatis)
+2020-04-27 08:02:18.304 [restartedMain] INFO  com.phoenix.Application - No active profile set, falling back to default profiles: default
+2020-04-27 08:02:18.386 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-27 08:02:18.386 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-27 08:02:19.323 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-27 08:02:19.331 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:02:19.332 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-27 08:02:19.332 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-27 08:02:19.390 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-27 08:02:19.390 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1003 ms
+2020-04-27 08:02:19.632 [restartedMain] WARN  net.sf.ehcache.config.ConfigurationFactory - No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/victor/.m2/repository/net/sf/ehcache/ehcache-core/2.6.6/ehcache-core-2.6.6.jar!/ehcache-failsafe.xml
+2020-04-27 08:02:19.913 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:02:20.055 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-27 08:02:20.076 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:02:20.104 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-27 08:02:20.108 [restartedMain] INFO  com.phoenix.Application - Started Application in 2.146 seconds (JVM running for 2.738)
+2020-04-27 08:02:30.597 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-27 08:02:30.598 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-27 08:02:30.603 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-04-27 08:02:32.731 [http-nio-8080-exec-2] DEBUG com.phoenix.mapper.UserMapper - Cache Hit Ratio [com.phoenix.mapper.UserMapper]: 0.0
+2020-04-27 08:02:32.736 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-27 08:02:32.832 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-27 08:02:32.837 [http-nio-8080-exec-2] DEBUG com.phoenix.mapper.UserMapper.findAll - ==>  Preparing: SELECT id, username, sex, birthday FROM USER ; 
+2020-04-27 08:02:32.855 [http-nio-8080-exec-2] DEBUG com.phoenix.mapper.UserMapper.findAll - ==> Parameters: 
+2020-04-27 08:02:32.871 [http-nio-8080-exec-2] DEBUG com.phoenix.mapper.UserMapper.findAll - <==      Total: 7
+2020-04-27 08:04:27.093 [http-nio-8080-exec-4] DEBUG com.phoenix.mapper.UserMapper - Cache Hit Ratio [com.phoenix.mapper.UserMapper]: 0.5
+2020-04-27 08:05:32.107 [Thread-12] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:05:32.107 [Thread-12] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-27 08:05:32.114 [Thread-12] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-27 08:05:32.331 [restartedMain] INFO  com.phoenix.Application - Starting Application on victordembp with PID 28261 (/Users/victor/Documents/_work/java_learning/LearningMybatis/target/classes started by victor in /Users/victor/Documents/_work/java_learning/LearningMybatis)
+2020-04-27 08:05:32.331 [restartedMain] INFO  com.phoenix.Application - No active profile set, falling back to default profiles: default
+2020-04-27 08:05:32.512 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-27 08:05:32.513 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:05:32.513 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-27 08:05:32.513 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-27 08:05:32.529 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-27 08:05:32.529 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 196 ms
+2020-04-27 08:05:32.624 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:05:32.669 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-27 08:05:32.679 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:05:32.681 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-27 08:05:32.681 [restartedMain] INFO  com.phoenix.Application - Started Application in 0.428 seconds (JVM running for 195.317)
+2020-04-27 08:05:32.683 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-04-27 08:05:39.069 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-27 08:05:39.070 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-27 08:05:39.075 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-04-27 08:05:39.078 [http-nio-8080-exec-1] DEBUG com.phoenix.mapper.UserMapper - Cache Hit Ratio [com.phoenix.mapper.UserMapper]: 0.0
+2020-04-27 08:05:39.078 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2020-04-27 08:05:39.081 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2020-04-27 08:05:39.082 [http-nio-8080-exec-1] DEBUG com.phoenix.mapper.UserMapper.findAll - ==>  Preparing: SELECT id, username, sex, birthday FROM USER ; 
+2020-04-27 08:05:39.082 [http-nio-8080-exec-1] DEBUG com.phoenix.mapper.UserMapper.findAll - ==> Parameters: 
+2020-04-27 08:05:39.084 [http-nio-8080-exec-1] DEBUG com.phoenix.mapper.UserMapper.findAll - <==      Total: 7
+2020-04-27 08:05:44.885 [http-nio-8080-exec-2] DEBUG com.phoenix.mapper.UserMapper - Cache Hit Ratio [com.phoenix.mapper.UserMapper]: 0.5
+2020-04-27 08:05:50.552 [http-nio-8080-exec-3] DEBUG com.phoenix.mapper.UserMapper - Cache Hit Ratio [com.phoenix.mapper.UserMapper]: 0.6666666666666666
+2020-04-27 08:06:04.654 [http-nio-8080-exec-4] DEBUG com.phoenix.mapper.UserMapper - Cache Hit Ratio [com.phoenix.mapper.UserMapper]: 0.75
+2020-04-27 08:06:57.780 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:06:57.780 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2020-04-27 08:06:57.786 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2020-04-27 08:06:57.961 [restartedMain] INFO  com.phoenix.Application - Starting Application on victordembp with PID 28261 (/Users/victor/Documents/_work/java_learning/LearningMybatis/target/classes started by victor in /Users/victor/Documents/_work/java_learning/LearningMybatis)
+2020-04-27 08:06:57.961 [restartedMain] INFO  com.phoenix.Application - No active profile set, falling back to default profiles: default
+2020-04-27 08:06:58.161 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-27 08:06:58.161 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:06:58.162 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-27 08:06:58.162 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-27 08:06:58.172 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-27 08:06:58.172 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 208 ms
+2020-04-27 08:06:58.265 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:06:58.309 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-27 08:06:58.318 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:06:58.320 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-27 08:06:58.320 [restartedMain] INFO  com.phoenix.Application - Started Application in 0.4 seconds (JVM running for 280.958)
+2020-04-27 08:06:58.322 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-04-27 08:07:01.928 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-27 08:07:01.929 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-27 08:07:01.934 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-04-27 08:07:01.935 [http-nio-8080-exec-1] DEBUG com.phoenix.mapper.UserMapper - Cache Hit Ratio [com.phoenix.mapper.UserMapper]: 1.0
+2020-04-27 08:07:03.895 [http-nio-8080-exec-2] DEBUG com.phoenix.mapper.UserMapper - Cache Hit Ratio [com.phoenix.mapper.UserMapper]: 1.0
+2020-04-27 08:07:42.097 [Thread-24] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:07:42.260 [restartedMain] INFO  com.phoenix.Application - Starting Application on victordembp with PID 28261 (/Users/victor/Documents/_work/java_learning/LearningMybatis/target/classes started by victor in /Users/victor/Documents/_work/java_learning/LearningMybatis)
+2020-04-27 08:07:42.260 [restartedMain] INFO  com.phoenix.Application - No active profile set, falling back to default profiles: default
+2020-04-27 08:07:42.434 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-27 08:07:42.435 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:07:42.435 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-27 08:07:42.435 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-27 08:07:42.444 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-27 08:07:42.444 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 182 ms
+2020-04-27 08:07:42.521 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 08:07:42.561 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-27 08:07:42.569 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-27 08:07:42.571 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-27 08:07:42.572 [restartedMain] INFO  com.phoenix.Application - Started Application in 0.339 seconds (JVM running for 325.211)
+2020-04-27 08:07:42.573 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-04-27 08:08:21.854 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-27 10:43:06.788 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.phoenix.LearningmybatisApplicationTests], using SpringBootContextLoader
+2020-04-27 10:43:06.795 [main] INFO  o.s.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.phoenix.LearningmybatisApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2020-04-27 10:43:07.123 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2020-04-27 10:43:07.150 [main] INFO  o.s.b.t.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@38467116, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@5b7a7f33, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@790da477, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5c7933ad, org.springframework.test.context.support.DirtiesContextTestExecutionListener@57bc27f5, org.springframework.test.context.transaction.TransactionalTestExecutionListener@5fb759d6, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@4b8d604b, org.springframework.test.context.event.EventPublishingTestExecutionListener@5e7cd6cc, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@68c9d179, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@d554c5f, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2dfaea86, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@15888343, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@33ecda92]
+2020-04-27 10:43:07.660 [main] INFO  com.phoenix.LearningmybatisApplicationTests - Starting LearningmybatisApplicationTests on victordembp with PID 30140 (started by victor in /Users/victor/Documents/_work/java_learning/LearningMybatis)
+2020-04-27 10:43:07.661 [main] INFO  com.phoenix.LearningmybatisApplicationTests - No active profile set, falling back to default profiles: default
+2020-04-27 10:43:09.104 [main] WARN  net.sf.ehcache.config.ConfigurationFactory - No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/victor/Documents/_work/java_learning/_maven_repository/net/sf/ehcache/ehcache-core/2.6.6/ehcache-core-2.6.6.jar!/ehcache-failsafe.xml
+2020-04-27 10:43:09.644 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 10:43:09.986 [main] INFO  com.phoenix.LearningmybatisApplicationTests - Started LearningmybatisApplicationTests in 2.771 seconds (JVM running for 3.997)
+2020-04-27 10:43:10.250 [main] DEBUG com.phoenix.mapper.UserMapper - Cache Hit Ratio [com.phoenix.mapper.UserMapper]: 0.0
+2020-04-27 10:43:10.260 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-27 10:43:10.458 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-27 10:43:10.467 [main] DEBUG com.phoenix.mapper.UserMapper.findUserById - ==>  Preparing: SELECT * FROM USER WHERE id =? 
+2020-04-27 10:43:10.497 [main] DEBUG com.phoenix.mapper.UserMapper.findUserById - ==> Parameters: 1(Integer)
+2020-04-27 10:43:10.525 [main] DEBUG com.phoenix.mapper.UserMapper.findUserById - <==      Total: 1
+2020-04-27 10:43:10.587 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-27 10:43:10.588 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-27 10:43:10.602 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

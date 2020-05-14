@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a7e1112-f3a9-4685-8c63-97509f1fa6e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1az0UZ8sERtXwJUBHLzCsPYCEbY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.phoenix.c_inject" />
+      <recent name="com.phoenix.b_di" />
+      <recent name="com.phoenix.a_ioc" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.phoenix.f_web" />
+      <recent name="com.phoenix.a_bean" />
+      <recent name="com.phoenix.e_test" />
+      <recent name="com.phoenix" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/f_web" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/phoenix" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/phoenix/e_test" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/phoenix/d_transaction/tx4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.phoenix.a_bean.a_ioc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/e_test" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/phoenix/d_transaction/tx5" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/phoenix/d_transaction" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/phoenix/f_xml/b_setter" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestApp">
+    <configuration name="TestApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearningSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phoenix.e_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.phoenix.e_test" />
+      <option name="MAIN_CLASS_NAME" value="com.phoenix.e_test.TestApp" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImplTest2 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearningSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phoenix.a_bean.a_ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.phoenix.a_bean.a_ioc" />
+      <option name="MAIN_CLASS_NAME" value="com.phoenix.a_bean.a_ioc.UserServiceImplTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImplTest2 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearningSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phoenix.a_bean.a_ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.phoenix.a_bean.a_ioc" />
+      <option name="MAIN_CLASS_NAME" value="com.phoenix.a_bean.a_ioc.UserServiceImplTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImplTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearningSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phoenix.a_bean.a_ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.phoenix.a_bean.a_ioc" />
+      <option name="MAIN_CLASS_NAME" value="com.phoenix.a_bean.a_ioc.UserServiceImplTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImplTest2.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearningSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phoenix.a_bean.a_ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.phoenix.a_bean.a_ioc" />
+      <option name="MAIN_CLASS_NAME" value="com.phoenix.a_bean.a_ioc.UserServiceImplTest2" />
+      <option name="METHOD_NAME" value="addUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestApp" />
+        <item itemvalue="JUnit.UserServiceImplTest2.addUser" />
+        <item itemvalue="JUnit.UserServiceImplTest2" />
+        <item itemvalue="JUnit.UserServiceImplTest2 (3)" />
+        <item itemvalue="JUnit.UserServiceImplTest2 (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a7e1112-f3a9-4685-8c63-97509f1fa6e4" name="Default Changelist" comment="" />
+      <created>1587723130560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587723130560</updated>
+      <workItem from="1587723170587" duration="208000" />
+      <workItem from="1587726751777" duration="33509000" />
+      <workItem from="1587862460875" duration="1142000" />
+      <workItem from="1587943851634" duration="909000" />
+      <workItem from="1588672126350" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="196" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587728141487">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="196" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587728141487" />
+    <state x="553" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1587797990774">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="553" y="146" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587797990774" />
+    <state x="319" y="128" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587723326413">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="319" y="128" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587723326413" />
+    <state x="254" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587818092924">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="254" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587818092924" />
+    <state x="474" y="306" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587821001445">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="474" y="306" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587821001445" />
+    <state x="489" y="313" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1587818094380">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="489" y="313" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587818094380" />
+    <state x="402" y="317" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587723285673">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="402" y="317" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587723285673" />
+    <state width="1289" height="193" key="GridCell.Tab.0.bottom" timestamp="1587822889729">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1289" height="193" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587822889729" />
+    <state width="1289" height="193" key="GridCell.Tab.0.center" timestamp="1587822889728">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1289" height="193" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587822889728" />
+    <state width="1289" height="193" key="GridCell.Tab.0.left" timestamp="1587822889727">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1289" height="193" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587822889727" />
+    <state width="1289" height="193" key="GridCell.Tab.0.right" timestamp="1587822889728">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1289" height="193" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587822889728" />
+    <state x="229" y="90" key="Maven.ArtifactSearchDialog" timestamp="1587800392745">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="229" y="90" key="Maven.ArtifactSearchDialog/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587800392745" />
+    <state x="228" y="23" key="SettingsEditor" timestamp="1587727398004">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="228" y="23" key="SettingsEditor/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587727398004" />
+    <state x="382" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1587726751908">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="382" y="264" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587726751908" />
+    <state x="519" y="164" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587734114651">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="519" y="164" key="com.intellij.testIntegration.createTest.CreateTestDialog/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587734114651" />
+    <state x="83" y="23" key="new project wizard" timestamp="1587966107956">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="83" y="23" key="new project wizard/1440.23.1920.1057/0.23.1440.809@0.23.1440.809" timestamp="1587966107956" />
+  </component>
+</project>

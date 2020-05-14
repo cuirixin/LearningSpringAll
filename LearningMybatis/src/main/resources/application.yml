@@ -1,0 +1,26 @@
+#数据库配置
+spring:
+    port: 8888
+    http:
+        encoding:
+            charset: UTF-8
+        jackson:
+            date-format: yyyy-MM-dd HH:mm:ss
+            time-zone: GMT+8
+            default-property-inclusion: NON_NULL
+    datasource:
+        url: jdbc:mysql://localhost:3306/mybatis?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=UTC
+        username: root
+        password: root
+        driver-class-name: com.mysql.cj.jdbc.Driver
+mybatis:
+    config-location: classpath:mybatis/mybatis.cfg.xml
+    type-aliases-package: com.phoenix.model
+    mapper-locations: classpath:mybatis/mapper/*Mapper.xml
+# 日志（自定义）
+logging:
+    config: classpath:logback.xml
+    level:
+        com:
+            phoenix:
+                mapper: DEBUG
